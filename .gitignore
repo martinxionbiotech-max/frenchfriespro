@@ -2,3 +2,7 @@ raw/html/
 raw/*.json
 raw/*.tsv
 raw/*.xml
+
+dist/
+.astro/
+node_modules/
