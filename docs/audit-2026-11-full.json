@@ -1,0 +1,432 @@
+{
+  "pages": 886,
+  "routes": 886,
+  "title_gt60": 448,
+  "title_empty": 0,
+  "desc_empty": 261,
+  "desc_out_140_160": 574,
+  "desc_gt160": 257,
+  "h1_not_1": 52,
+  "h1_zero": 42,
+  "jsonld_zero": 4,
+  "forms": 659,
+  "forms_pages": 659,
+  "canonical": 677,
+  "canonical_bad_target": 0,
+  "canonical_non_source_host": 0,
+  "hreflang": 15876,
+  "hreflang_bad_target": 0,
+  "anchors": 32248,
+  "anchors_bad": 0,
+  "assets": 56252,
+  "assets_bad": 0,
+  "css_refs": 304,
+  "css_bad": 0,
+  "external_links": 1520,
+  "external_domains": 19,
+  "external_top": [
+    [
+      "data.frenchfriespro.com",
+      882
+    ],
+    [
+      "doi.org",
+      114
+    ],
+    [
+      "www.ebiotrade.com",
+      95
+    ],
+    [
+      "www.accio.com",
+      76
+    ],
+    [
+      "www.sciencedirect.com",
+      76
+    ],
+    [
+      "www.messer-us.com",
+      38
+    ],
+    [
+      "www.alibaba.com",
+      38
+    ],
+    [
+      "www.statista.com",
+      19
+    ],
+    [
+      "sinocharm.en.made-in-china.com",
+      19
+    ],
+    [
+      "www.e-nxtrade.com",
+      19
+    ],
+    [
+      "www.fatsecret.com",
+      19
+    ],
+    [
+      "www.verywellfit.com",
+      19
+    ],
+    [
+      "www.mcdonalds.com",
+      19
+    ],
+    [
+      "www.nutritionix.com",
+      19
+    ],
+    [
+      "www.nutrifox.com",
+      19
+    ]
+  ],
+  "orphans": 4,
+  "unreachable": 4,
+  "click_depth": {},
+  "by_lang": {
+    "ar": {
+      "pages": 93,
+      "length_median": 5389,
+      "words_median": 822,
+      "cjk_median": 0,
+      "forms": 70,
+      "title_gt60": 60,
+      "desc_empty": 28
+    },
+    "de-DE": {
+      "pages": 93,
+      "length_median": 6010,
+      "words_median": 734,
+      "cjk_median": 0,
+      "forms": 70,
+      "title_gt60": 62,
+      "desc_empty": 28
+    },
+    "en-US": {
+      "pages": 69,
+      "length_median": 4403,
+      "words_median": 621,
+      "cjk_median": 0,
+      "forms": 46,
+      "title_gt60": 34,
+      "desc_empty": 29
+    },
+    "es-ES": {
+      "pages": 93,
+      "length_median": 6247,
+      "words_median": 903,
+      "cjk_median": 0,
+      "forms": 70,
+      "title_gt60": 68,
+      "desc_empty": 28
+    },
+    "fr-FR": {
+      "pages": 90,
+      "length_median": 6492,
+      "words_median": 963,
+      "cjk_median": 0,
+      "forms": 70,
+      "title_gt60": 57,
+      "desc_empty": 26
+    },
+    "ja": {
+      "pages": 93,
+      "length_median": 3009,
+      "words_median": 318,
+      "cjk_median": 2002,
+      "forms": 70,
+      "title_gt60": 21,
+      "desc_empty": 28
+    },
+    "ko-KR": {
+      "pages": 76,
+      "length_median": 3244,
+      "words_median": 751,
+      "cjk_median": 1775,
+      "forms": 53,
+      "title_gt60": 10,
+      "desc_empty": 10
+    },
+    "pt-BR": {
+      "pages": 93,
+      "length_median": 6190,
+      "words_median": 912,
+      "cjk_median": 0,
+      "forms": 70,
+      "title_gt60": 67,
+      "desc_empty": 28
+    },
+    "ru-RU": {
+      "pages": 93,
+      "length_median": 6068,
+      "words_median": 770,
+      "cjk_median": 0,
+      "forms": 70,
+      "title_gt60": 68,
+      "desc_empty": 28
+    },
+    "zh-TW": {
+      "pages": 93,
+      "length_median": 2112,
+      "words_median": 321,
+      "cjk_median": 1182,
+      "forms": 70,
+      "title_gt60": 1,
+      "desc_empty": 28
+    }
+  },
+  "title_dups": [
+    [
+      "2026 Global Frozen French Fry Industry Report - Dinweys French Fries Factory",
+      10
+    ],
+    [
+      "Blogs - Dinweys French Fries Factory",
+      4
+    ],
+    [
+      "Dinweys French Fries Factory - Dinweys French Fries Factory",
+      4
+    ],
+    [
+      "Food Safety Standards & International Certifications: Ensuring Product Quality and Global Compliance - Dinweys French Fries Factory",
+      2
+    ],
+    [
+      "Calories in French Fries (Potato Fries): A Deep Nutritional Analysis & Smart Strategies for Restaurants - Dinweys French Fries Factory",
+      2
+    ],
+    [
+      "How to Choose a Reliable Frozen French Fries Manufacturer | Buyer’s Guide",
+      2
+    ],
+    [
+      "China Frozen Finger Chips (French Fries) in Bulk OEM Manufacturer Direct - Dinweys French Fries Factory",
+      3
+    ],
+    [
+      "HTML Sitemap - Dinweys French Fries Factory",
+      2
+    ],
+    [
+      "Frozen French Fries Production Process: From Potato to Plate | Industry Guide",
+      2
+    ],
+    [
+      "냉동 감자튀김으로 으깬 감자를 만들 수 있을까요? 업계 내부자의 관점 - 딘위스 프렌치프라이 공장",
+      2
+    ],
+    [
+      "감자튀김 생산 요인: 원자재, 장비 및 공급 위험",
+      2
+    ],
+    [
+      "코팅 냉동 감자 튀김 제조업체 직접-베스트셀러 7mm, 9mm, 10mm, 크링클-Dinweys 감자 튀김 공장",
+      2
+    ],
+    [
+      "프렌치 프라이 영양 정보: 칼로리, 다량 영양소, 섬유질 및 건강에 미치는 영향",
+      2
+    ],
+    [
+      "감자튀김(감자튀김)의 칼로리: 레스토랑을 위한 심층 영양 분석 및 현명한 전략 - 딘위스 프렌치프라이 팩토리",
+      2
+    ],
+    [
+      "감자튀김은 공장에서 어떻게 만들어질까? 제조업체가 알려주는 7가지 단계 - 딘위스 프렌치프라이 공장",
+      2
+    ],
+    [
+      "감자튀김은 식품첨가물 함량이 낮나요? 공장에서 만든 냉동 감자튀김에 대해 자세히 살펴보기 - 딘위스 프렌치프라이 팩토리",
+      2
+    ],
+    [
+      "신뢰할 수 있는 냉동 감자튀김 제조업체를 선택하는 방법 | 구매자 가이드",
+      2
+    ],
+    [
+      "벌크 등급 A의 McCain 감자 튀김-북중국 제조업체-Dinweys 감자 튀김 공장",
+      2
+    ],
+    [
+      "식품 안전 표준 및 국제 인증: 제품 품질 및 글로벌 규정 준수 보장 - 딘위스 프렌치프라이 공장",
+      2
+    ],
+    [
+      "감자튀김을 위한 최고의 감자: 가공업체가 알려주는 진실 - 딘위스 프렌치프라이 팩토리",
+      2
+    ]
+  ],
+  "desc_dups": [
+    [
+      "Market Dynamics · Supply Chain Restructuring · China's Manufacturing Opportunity",
+      10
+    ],
+    [
+      "Martin (WhatsApp& WeChat):+86 13323237275Aaron (WhatsApp& WeChat):+86 13313137465",
+      5
+    ],
+    [
+      "All About French Fries Factory and Production",
+      2
+    ],
+    [
+      "냉동 감자튀김으로 으깬 감자를 만들 수 있나요? 업계 내부자의 관점",
+      2
+    ],
+    [
+      "감자 품질, 가공 장비, HACCP 시스템, 공급망 안정성이 B2B 구매자의 감자튀김 생산 및 구매 결정에 어떤 영향을 미치는지 이해합니다.",
+      2
+    ],
+    [
+      "옥수수 전분을 얇게 코팅하여 바삭함이 향상되고 유지 시간이 길어지며 색이 더 잘 유지되는 코팅 냉동 감자튀김입니다. 수출 인증 A등급 공급업체가 중국 북부에서 제조합니다. 모든 표준 크기(7mm, 9mm, 10mm, 크링클)로 제공되며 전 세계 QSR, 케이터링 및 소매 시장을 위해 설계되었습니다.",
+      2
+    ],
+    [
+      "프렌치 프라이 영양 정보: 칼로리, 다량 영양소, 섬유질 및 건강에 미치는 영향: 이 문서에서는 감자튀김 영양 정보에 대한 포괄적인 증거 기반 개요를 제공하며, 다량 영양소, 섬유질, 비타민, 미네랄 및 건강 고려 사항을 살펴봅니다.",
+      2
+    ],
+    [
+      "감자튀김의 칼로리를 자세히 분석하고 식당에서 칼로리 영향을 줄일 수 있는 방법을 알아보세요. 감자튀김의 칼로리, 영양 분석, 더 건강한 감자튀김.",
+      2
+    ],
+    [
+      "“감자튀김은 공장에서 어떻게 만들어지나요?”라는 질문은 호기심뿐만 아니라 제품의 일관성, 비용 효율성 및 공급업체의 신뢰성을 보장하기 위한 질문이기도 합니다.",
+      2
+    ],
+    [
+      "감자튀김은 바삭하고 짭짤하며 포만감을 주는 전 세계에서 가장 좋아하는 간편식 중 하나이지만, 로우 푸드맵 식단을 따르고 있다면 아마도",
+      2
+    ],
+    [
+      "감자 품종, 공장 전문성, 생산 능력, 인증, 공급 안정성 등 신뢰할 수 있는 냉동 감자튀김 제조업체를 평가하는 방법을 알아보세요.",
+      2
+    ],
+    [
+      "프리미엄 맥케인 감자튀김은 중국 북부에 있는 A등급 제조업체에서 직접 공급합니다. 식품 서비스, 소매 및 산업 사용자에게 최적화된 IQF 냉동, 일관된 절단 및 색상을 제공합니다. 안정적인 대량 공급, 수출용 포장, 엄격한 품질 관리로 유통업체, 체인점 및 중앙 주방에 이상적입니다.",
+      2
+    ],
+    [
+      "이 세 가지 표준은 식품 안전 및 품질 관리에 필수적인 핵심 원칙을 공유합니다:",
+      2
+    ],
+    [
+      "감자튀김 가공 업계에서 수년을 보낸 사람으로서 자신 있게 말할 수 있는 것은 감자튀김에 가장 적합한 감자의 비결은 다음과 같습니다.",
+      2
+    ],
+    [
+      "IQF 7×7mm 얇게 썬 슈스트링 감자튀김(1kg 봉지, 10봉지/팩). 신선도와 품질을 위해 개별 급속 냉동(IQF)한 프리미엄 마카인 감자로 생산합니다. 유통기한은 -18°C 이하에서 24개월입니다. QSR 체인점, 중앙 주방, 식품 서비스 및 대량 B2B 공급에 이상적입니다.",
+      2
+    ],
+    [
+      "12mm 일반 컷 사이즈의 프리미엄 등급 A 냉동 감자튀김으로 식감, 색상 균일성, 튀김 성능이 뛰어납니다. 유통업체, 도매업체, 슈퍼마켓, 식품 서비스 체인에 적합한 1kg 봉투와 10kg 수출용 상자에 포장되어 있습니다.",
+      3
+    ],
+    [
+      "특히 허베이성, 장자커우, 내몽고, 산둥성 등 중국 내 소규모 냉동 감자튀김 공장에서 구매하는 것이 중소 규모 구매자에게 더 낮은 MOQ, 더 빠른 서비스, 더 나은 유연성을 제공하는 이유를 알아보세요.",
+      2
+    ],
+    [
+      "프리미엄 IQF 스트레이트 컷 감자튀김 - 폭 9mm, 1kg 개별 PE 봉지(10봉지/팩)로 공급됩니다. 균일한 크기, 자유로운 IQF 식감, 일관된 조리/수율 성능을 위해 가공되었습니다. 식품 서비스, 중앙 주방, 퀵 서비스 레스토랑 및 도매 식품 제조업체를 위해 설계되었습니다.",
+      2
+    ],
+    [
+      "2025년 최신 프렌치프라이 가격 업데이트. 중국의 주요 냉동 감자튀김 생산업체의 FOB 가격, 시장 동향 및 글로벌 바이어를 위한 수출 인사이트를 참고하세요.",
+      2
+    ],
+    [
+      "감자튀김도 채소인가요?",
+      2
+    ]
+  ],
+  "canonical_mismatch": [
+    [
+      "/frozen-french-fries-production-process/embed",
+      "https://frenchfriespro.com/frozen-french-fries-production-process/"
+    ],
+    [
+      "/ko/can-you-make-mashed-potatoes-from-french-fries",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80%ec%9c%bc%eb%a1%9c-%ec%9c%bc%ea%b9%ac-%ea%b0%90%ec%9e%90%eb%a5%bc-%eb%a7%8c%eb%93%a4-%ec%88%98-%ec%9e%88%eb%82%98%ec%9a%94/"
+    ],
+    [
+      "/ko/french-fry-nutrition-info",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-%ec%98%81%ec%96%91-%ec%a0%95%eb%b3%b4/"
+    ],
+    [
+      "/ko/how-are-french-fries-made-in-a-factory",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80%ec%9d%80-%ea%b3%b5%ec%9e%a5%ec%97%90%ec%84%9c-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%93%a4%ec%96%b4%ec%a7%80%eb%82%98%ec%9a%94/"
+    ],
+    [
+      "/ko/best-potatoes-for-french-fries",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80%ec%97%90-%ea%b0%80%ec%9e%a5-%ec%a2%8b%ec%9d%80-%ea%b0%90%ec%9e%90/"
+    ],
+    [
+      "/ko/frozen-shoestring-french-fries",
+      "https://frenchfriespro.com/ko/%eb%83%89%eb%8f%99-%ec%8a%88%ec%8a%a4%ed%8a%b8%eb%a7%81-%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80/"
+    ],
+    [
+      "/ko/coated-frozen-french-fries-best-selling",
+      "https://frenchfriespro.com/ko/%ec%bd%94%ed%8c%85-%eb%83%89%eb%8f%99-%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-%eb%b2%a0%ec%8a%a4%ed%8a%b8%ec%85%80%eb%9f%ac/"
+    ],
+    [
+      "/ko/food-safety-standards",
+      "https://frenchfriespro.com/ko/%ec%8b%9d%ed%92%88-%ec%95%88%ec%a0%84-%ed%91%9c%ec%a4%80/"
+    ],
+    [
+      "/ko/buy-frozen-french-fries-from-small-factory",
+      "https://frenchfriespro.com/ko/%ec%9e%91%ec%9d%80-%ea%b3%b5%ec%9e%a5%ec%97%90%ec%84%9c-%eb%83%89%eb%8f%99-%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-%ea%b5%ac%eb%a7%a4%ed%95%98%ea%b8%b0/"
+    ],
+    [
+      "/ko/straight-cut-frozen-french-fries-9mm",
+      "https://frenchfriespro.com/ko/%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%8a%b8-%ec%bb%b7-%eb%83%89%eb%8f%99-%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-9mm/"
+    ],
+    [
+      "/ko/are-french-fries-low-fodmap",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80%ec%9d%80-%eb%82%ae%ec%9d%80-%ed%8f%ac%eb%93%9c%eb%a7%b5/"
+    ],
+    [
+      "/ko/2025-2026-china-frozen-french-fries-price",
+      "https://frenchfriespro.com/ko/2025-2026-%ec%a4%91%ea%b5%ad-%eb%83%89%eb%8f%99-%ea%b0%90%ec%9e%90-%ed%8a%80%ea%b9%80-%ea%b0%80%ea%b2%a9/"
+    ],
+    [
+      "/ko/how-to-make-healthy-french-fries",
+      "https://frenchfriespro.com/ko/%ea%b1%b4%ea%b0%95%ed%95%9c-%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-%eb%a7%8c%eb%93%9c%eb%8a%94-%eb%b2%95/"
+    ],
+    [
+      "/ko/calories-in-french-fries-a-deep-analysis",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80%ec%9d%98-%ec%b9%bc%eb%a1%9c%eb%a6%ac-%ec%8b%ac%ec%b8%b5-%eb%b6%84%ec%84%9d/"
+    ],
+    [
+      "/ko/how-to-choose-french-fries-manufacturer",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-%ec%a0%9c%ec%a1%b0%ec%97%85%ec%b2%b4%eb%a5%bc-%ec%84%a0%ed%83%9d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/"
+    ],
+    [
+      "/ko/grade-b-frozen-french-fries",
+      "https://frenchfriespro.com/ko/b%ea%b8%89-%eb%83%89%eb%8f%99-%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80/"
+    ],
+    [
+      "/ko/frozen-finger-chips",
+      "https://frenchfriespro.com/ko/%eb%83%89%eb%8f%99-%ed%95%91%ea%b1%b0-%ec%b9%a9/"
+    ],
+    [
+      "/ko/what-makes-french-fries-halal",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80%ec%9d%84-%ed%95%a0%eb%9e%84%eb%a1%9c-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%9d%b4%ec%9c%a0/"
+    ],
+    [
+      "/ko/frozen-french-fries-12mm-regular-cut-medium-cut",
+      "https://frenchfriespro.com/ko/%eb%83%89%eb%8f%99-%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-12mm-%eb%a0%88%ea%b7%a4%eb%9f%ac-%ec%bb%b7-%eb%af%b8%eb%94%94%ec%97%84-%ec%bb%b7/"
+    ],
+    [
+      "/ko/factors-influence-french-fries-production",
+      "https://frenchfriespro.com/ko/%ea%b0%90%ec%9e%90%ed%8a%80%ea%b9%80-%ec%83%9d%ec%82%b0%ec%97%90-%ec%98%81%ed%96%a5%ec%9d%84-%eb%af%b8%ec%b9%98%eb%8a%94-%ec%9a%94%ec%9d%b8/"
+    ]
+  ],
+  "bad_samples": [],
+  "asset_bad_samples": []
+}
